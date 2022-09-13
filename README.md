@@ -16,7 +16,7 @@ The result is a conda environment with dependencies installed to run scripts. Si
 
 ## Usage
 
-The user should speak loud and clear for the best performance.
+During the first run, the script will download the model, which takes a while. The user should speak loud and clear for the best performance.
 
 1. command line version:
 
