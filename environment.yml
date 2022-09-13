@@ -1,0 +1,13 @@
+name: speech
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pytorch
+  - torchaudio
+  - cpuonly
+  - portaudio
+  - python-sounddevice
+  - tk
