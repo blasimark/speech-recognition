@@ -1,4 +1,4 @@
-## Speech recognition using wav2vec 2.0 :sound: :notes: :speaker:
+## :sound: Speech recognition using wav2vec 2.0 :notes: :speaker:
 This repo provides code that records the user's voice and displays the transcript (:link: [Research paper](https://arxiv.org/pdf/2006.11477.pdf)).
 
 ## Structure
@@ -7,7 +7,7 @@ There are two scripts that achieve the mentioned task: speech_rec.py, which has 
 
 ## Setup
 
-1. git clone the repo
+1. Clone repository: `git clone https://github.com/blasimark/speech-recognition`
 2. Open Anaconda Prompt or CLI with conda initialized and navigate into the project directory `cd path_to_repo`
 3. Run `conda env create -f environment.yml` (while in project directory)
 4. Run `conda activate speech`
