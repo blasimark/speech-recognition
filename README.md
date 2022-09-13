@@ -1,5 +1,5 @@
 ## :sound: Speech recognition using wav2vec 2.0 :notes: :speaker:
-This repo provides code that records the user's voice and displays the transcript (:link: [Research paper](https://arxiv.org/pdf/2006.11477.pdf)).
+This repo provides code that records the user's voice and displays the transcript (:link: [Link of wav2vec 2.0 research paper](https://arxiv.org/pdf/2006.11477.pdf)).
 
 ## Structure
 
