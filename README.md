@@ -1,4 +1,4 @@
-## Speech recognition using wav2vec 2.0 :mouth:
+## Speech recognition using wav2vec 2.0 :sound: :notes: :speaker:
 This repo provides code that records the user's voice and displays the transcript (:link: [Research paper](https://arxiv.org/pdf/2006.11477.pdf)).
 
 ## Structure
@@ -34,7 +34,10 @@ The user should speak loud and clear for the best performance.
 
 2. tk version:
 
-    - Run `python tk_speech_rec.py`
+    - Run `python tk_speech_rec.py` 
+
     - The script creates a window with clickable buttons (only left mouse button clicks are registered) that display their purposes
+
     - The user can record their voice, and after stopping the recording, the transcript is displayed under the buttons
+
     - The user should always stop the current recording before starting a new one
