@@ -8,7 +8,7 @@ There are two scripts that achieve the mentioned task: speech_rec.py, which has 
 ## Setup
 
 1. Clone repository: `git clone https://github.com/blasimark/speech-recognition`
-2. Open Anaconda Prompt or CLI with conda initialized and navigate into the project directory `cd path_to_repo`
+2. Open Anaconda Prompt or a CLI with conda initialized and navigate into the project directory `cd path_to_repo`
 3. Run `conda env create -f environment.yml` (while in project directory)
 4. Run `conda activate speech`
 
