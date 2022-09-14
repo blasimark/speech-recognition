@@ -67,7 +67,7 @@ def quit(event):
     print("Exiting")                     
     sys.exit() 
 
-font = ("Times", 24)
+font = ("Times", 18)
 
 start_recording_button = tk.Button(None, text="Start audio recording", font = font)
 start_recording_button.pack()
